@@ -22,9 +22,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Luaim&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
-<div align="center">
-    <img src="https://github.com/Luaim/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luaim&icon=0&color=0)](https://visitcount.itsvg.in)
