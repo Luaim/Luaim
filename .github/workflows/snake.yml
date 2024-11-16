@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  schedule: # Runs at 12 AM UTC every day
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # github user name for the contribution graph
+          # (ie. the part after github.com/)
+          user: Luaim
+          # branch name where the svg file will be saved
+          branch: output
