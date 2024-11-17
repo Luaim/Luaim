@@ -21,9 +21,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Luaim&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
-![GitHub Snake Light](https://github.com/Luaim/Luaim/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Luaim/Luaim/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+---
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luaim&icon=0&color=0)](https://visitcount.itsvg.in)
