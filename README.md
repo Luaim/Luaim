@@ -23,6 +23,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Luaim&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Luaim&icon=0&color=0)](https://visitcount.itsvg.in)
 
