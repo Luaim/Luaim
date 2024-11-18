@@ -23,7 +23,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Luaim&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 ---
 
-<img src="https://raw.githubusercontent.com/Luaim/Luaim/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luaim/Luaim/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luaim/Luaim/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/Luaim/Luaim/output/snake-light.svg" alt="Snake animation" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3); max-width: 100%; height: auto;">
+</picture>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luaim&icon=0&color=0)](https://visitcount.itsvg.in)
