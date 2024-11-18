@@ -23,8 +23,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Luaim&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 ---
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Luaim/Luaim/output/snake.svg" alt="Snake animation" />
 
 ---
