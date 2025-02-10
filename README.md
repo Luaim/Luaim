@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Luaim&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luaim&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luaim&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Luaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luaim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Luaim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
