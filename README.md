@@ -1,4 +1,4 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)
+![image](https://github.com/user-attachments/assets/72f438e6-45b3-4fd5-8259-a686e15037ad)![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)
 # 💫 About Me:
 🔭 I’m currently a Student passionate about technology and coding.<br>👯 I’m looking to collaborate on open-source projects, web development, AI/ML-related challenges and other programming languages.<br>🤝 I’m looking for help with improving my knowledge in machine learning and backend development.<br>🌱 I’m currently learning Python, C#, Java, Dart flutter, R the fundamentals of machine learning and more.<br>⚡ Fun fact: I love solving some basic problems
 
@@ -16,6 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Luaim&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luaim&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luaim&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Luaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luaim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Luaim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
