@@ -6,7 +6,8 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2/pfbid0nJj48ApvcpFtL1t5wpWcr71QLKTbrb6D2yHtLNfyVFkkvRMejAzz21TPAaoX1W8Kl/?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luai.m1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luaiMohammed/) 
 
-[![](https://visitcount.itsvg.in/api?id=Luaim&icon=0&color=0)](https://visitcount.itsvg.in) [![Follow](https://img.shields.io/badge/Follow-%40Luaim-00C4CC?style=flat-square&logo=github&logoColor=white)](https://github.com/Luaim?tab=followers)
+[![](https://visitcount.itsvg.in/api?id=Luaim&icon=0&color=0)](https://visitcount.itsvg.in) [![Follow](https://img.shields.io/badge/Follow-%40Luaim-00C4CC?style=flat-square&logo=github&logoColor=white)](https://github.com/Luaim?tab=followers)  ![Profile views](https://komarev.com/ghpvc/?username=Luaim&color=blue)
+
 
 
 # 💻 Tech Stack:
