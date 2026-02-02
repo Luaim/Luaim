@@ -33,10 +33,10 @@
 
 ## 💫 About Me
 - 🚀 AI & Software Engineer focused on **real-world intelligence**
-- 🧠 Interests: **Machine Learning**, **Computer Vision**, **Mobile & Web Development**
+- 🧠 Interests:**Machine Learning**, **Computer Vision**, **Mobile & Web Development**
 - 🧩 I enjoy turning complex ideas into **clean, fast, user-friendly systems**
 - 🤝 Open to collaborating on **AI/ML**, **Flutter**, and engineering projects
-- 🌱 Currently improving: **model deployment**, **API development**, **production systems**
+- 🌱 Currently improving:**model deployment**, **API development**, **production systems**
 - ⚡ Fun fact: I love polishing projects until they feel *premium and solid*
 
 ---
