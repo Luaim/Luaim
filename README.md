@@ -56,7 +56,6 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
 
