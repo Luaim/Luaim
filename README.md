@@ -1,6 +1,6 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="100%" alt="MasterHead" />
 
-<h1 align="center">Hi, I’m Luai Al-Harazi 👋</h1>
+<h1 align="center">Hi, I'm Luai Al-Harazi 👋</h1>
 <h3 align="center">AI & Software Engineer • CS (Artificial Intelligence) Graduate • Malaysia</h3>
 
 <p align="center">
@@ -75,26 +75,26 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luaim&show_icons=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Luaim" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luaim&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Luaim&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaim&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaim&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luaim&theme=radical&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Luaim&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
