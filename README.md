@@ -38,7 +38,6 @@
 - 🤝 Open to collaborating on **AI/ML**, **Flutter**, and engineering projects
 - 🌱 Currently improving:**model deployment**, **API development**, **production systems**
 - ⚡ Fun fact: I love polishing projects until they feel *premium and solid*
--  
 
 ---
 
