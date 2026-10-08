@@ -4,7 +4,7 @@
 <h3 align="center">Artificial Intelligence Graduate • AI & Software Engineer</h3>
 
 <p align="center">
-  <a href="https://luaim.github.io/luai-portfolio/" target="_blank">
+  <a href="https://luai-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/luaimohammed/" target="_blank">
@@ -132,7 +132,7 @@ Responsive full-stack car rental website developed during my internship.
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="https://luaim.github.io/luai-portfolio/">🌐 Portfolio</a> •
+  <a href="https://luai-portfolio.vercel.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/luaimohammed/">LinkedIn</a> •
   <a href="mailto:lmohammd4@gmail.com">Email</a>
 </p>
